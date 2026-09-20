@@ -1,0 +1,57 @@
+Terms of Service
+Effective Date: September 20, 2026
+
+Please read these Terms of Service ("Terms") carefully before using the Asfysh website, application, adapter binaries, or services (the "Service"). By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the Service.
+
+1. Scope of Service & Architecture
+Asfysh provides software tools, API adapters, and connection protocols to enable integration between the Rclone cloud synchronization utility and the Google Drive platform. You acknowledge that:
+
+Asfysh is an independent project and is not endorsed by, affiliated with, or sponsored by Google LLC or the Rclone open-source project.
+
+You are solely responsible for obtaining and maintaining your own Google Cloud developer credentials, API quotas, and storage capacity.
+
+2. User Obligations & Permitted Use
+You agree to use Asfysh in compliance with all applicable local, national, and international laws. Specifically, you agree not to:
+
+Use the Service to violate the Google Terms of Service, Google Drive Acceptable Use Policy, or Google API Terms of Service.
+
+Attempt to bypass Google API rate limits, abuse quotas, or cause denial of service to third parties.
+
+Transfer, store, or distribute malicious code, ransomware, copyrighted material without authorization, or illegal material using Asfysh.
+
+Reverse engineer, decompile, or tamper with security controls implemented in Asfysh, except where permitted by open-source licensing.
+
+3. Google Account & API Quotas
+Your use of Google Drive through Asfysh consumes API quota and storage from your personal or organizational Google account. Asfysh is not liable for:
+
+Account suspensions, quota bans, or rate limiting imposed by Google.
+
+Billing charges incurred on your Google Cloud Console or Google Workspace subscriptions.
+
+4. Intellectual Property
+All software rights, logos, and original content provided by Asfysh remain the property of the project maintainers and/or its licensors. If the software is distributed under an open-source license (e.g., MIT or Apache 2.0), your use of the source code is governed by that respective license agreement.
+
+5. Disclaimer of Warranties
+THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+
+To the fullest extent permissible under applicable law, the maintainers and contributors of Asfysh disclaim all warranties, including but not limited to implied warranties of merchantability, fitness for a particular purpose, non-infringement, and data integrity. We do not warrant that:
+
+The Service will operate uninterrupted or error-free.
+
+The Service will prevent data corruption, file conflicts, or synchronization failures.
+
+Compatibility with future changes to the Google Drive API or Rclone command-line interface will be maintained indefinitely.
+
+You are solely responsible for maintaining verified offline or external backups of any critical data managed via Asfysh.
+
+6. Limitation of Liability
+To the maximum extent permitted by law, in no event shall the authors, contributors, or distributors of Asfysh be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of or inability to use this software, even if advised of the possibility of such damage.
+
+7. Termination
+We reserve the right to terminate or restrict access to hosted aspects of the Service immediately, without prior notice or liability, for any violation of these Terms or suspected abusive behavior.
+
+8. Changes to Terms
+We reserve the right to revise or replace these Terms at our discretion. If a revision is material, we will provide notice via our website or official repository prior to the new terms taking effect. Continued use of the Service following revisions constitutes acceptance of the modified Terms.
+
+9. Governing Law & Inquiries
+These Terms shall be governed by and construed in accordance with standard commercial and open-source practices. For questions regarding these Terms, contact legal@asfysh.example.com.
