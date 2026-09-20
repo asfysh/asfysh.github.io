@@ -1,0 +1,13 @@
+Frictionless Google Drive Sync for Power Users & Pipelines
+
+Asfysh connects Google Drive to Rclone with streamlined OAuth management, optimized transfer adapters, and zero intermediary storage.
+
+Asfysh is a lightweight adapter designed to bridge Google Drive and Rclone workflows seamlessly. Whether you are automating server backups, mounting cloud storage as a local disk, or synchronizing high-throughput datasets across distributed environments, Asfysh simplifies authentication, connection pooling, and endpoint translation?giving you standard Rclone flexibility without Google Cloud API configuration friction.
+
+Direct Point-to-Point Transfers: Asfysh operates as an adapter, not an intermediary proxy. File streams flow directly between your host and Google Drive, preserving bandwidth, latency, and confidentiality.
+
+Simplified OAuth & Token Refresh: Eliminate token-expiration headaches on headless servers and CI/CD pipelines with managed, compliant OAuth lifecycle handling.
+
+Optimized API Throughput: Built-in rate-limiting logic and backoff policies minimize Google Drive API 403 rateLimitExceeded and userRateLimitExceeded errors.
+
+Privacy by Design: Asfysh never caches, inspects, or stores the contents of your files. All metadata parsing and authentication tokens remain strictly within your designated control boundary.
